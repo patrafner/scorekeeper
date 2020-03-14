@@ -1,0 +1,12 @@
+body {
+	background-color: #7cc4af
+}
+
+.winner {
+	color: green;
+}
+
+div {
+	text-align: center;
+	padding: 50px;
+}
